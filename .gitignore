@@ -1,0 +1,11 @@
+node_modules/
+.env
+venv/
+stitch*
+stitch*/
+wireframes.md
+test_mcp.mjs
+
+achievements/
+plans/
+plans/
